@@ -13,6 +13,7 @@ The information collected and presented includes:
 ## **Tools:**
 1. Python - Flask, BeautifulSoup, Pandas, and Splinter
 2. MongoDB
+3. HTML
 
 ## **Screenshots:**
 ![screenshot.jpg](images/MissionToMars_Screenshot.JPG)
