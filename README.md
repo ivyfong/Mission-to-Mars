@@ -15,5 +15,5 @@ The information collected and presented includes:
 2. MongoDB
 3. HTML
 
-## **Screenshots:**
+## **Screenshot:**
 ![screenshot.jpg](images/MissionToMars_Screenshot.JPG)
