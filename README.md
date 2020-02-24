@@ -1,7 +1,7 @@
 # Mission to Mars
 
 ## **Objective:**
-The objective of this project is to build a web application using Flask that scrapes various websites for data on Mars and to display the information in a HTML page. The information on Mars is scraped from the web using BeautifulSoup, Pandas, and Splinter, saved in a Mongo database, then extracted and displayed in the HTML page. 
+The objective of this project is to build a web application using Flask that scrapes various websites for data on Mars and to display the information in a HTML page. The information on Mars is scraped from the web using BeautifulSoup, Pandas, and Splinter, saved in a Mongo database, then extracted and displayed in a HTML page. 
 
 The information collected and presented includes: 
 * Latest news title and paragraph text from the NASA Mars News site.
