@@ -11,7 +11,7 @@ The information collected and presented includes:
 * Images of Mars’s hemispheres from the USGS Astrogeology site.
 
 ## **Tools:**
-1. Python - Flask, BeautifulSoup, Pandas, and Splinter
+1. Python - Flask, BeautifulSoup, Pandas, Splinter
 2. MongoDB
 3. HTML
 
